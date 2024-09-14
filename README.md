@@ -5,3 +5,9 @@
 ```bash
 sh ./build.sh
 ```
+
+## VS Code Extensions
+- C/C++
+- CMake
+- CMake Tools
+- Doxygen Documentation Generator
